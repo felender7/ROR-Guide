@@ -1,0 +1,36 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+
+
+title = 'ROR Guide:Learn Ruby on Rails for Beginners'
+theme = "hugo-theme-learn"
+
+
+themesdir = "themes"
+
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir = true
+
+[params]
+  themeVariant = "blue"
+  editURL = "https://github.com/felender7/ROR-Guide"
+  description = "Ruby on rails guide"
+  author = "Felender Hlungwani"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableInlineCopyToClipBoard = true
+  twitter = "felender7"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/felender7/ROR-Guide"
+weight = 10
+
+[markup.goldmark.renderer]
+unsafe = true
