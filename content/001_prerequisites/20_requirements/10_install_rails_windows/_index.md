@@ -7,6 +7,9 @@ weight: 11
 
 ### Overview
 
+{{% notice info%}}
+🕘 This will take about 45 minutes..
+{{% / notice %}}
 We will be setting up a Ruby on Rails development environment on Windows 10.
 
 The reason we're going to be using Bash on Ubuntu on Windows because it allows you to run Linux on your Windows machine. Most Ruby on Rails tutorials and dependencies work best on Linux, so this allows you to get the best of both worlds. A Windows machine for your day to day work, and a Linux subsystem for Ruby on Rails development.
