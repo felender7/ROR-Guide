@@ -24,7 +24,3 @@ You'll need to have the following skills to get the most out of the course:
 
 
 To get the most out of the course, follow the installation instructions for Ruby on rails and Visual Studio Code.
-
-<!-- ----
-
-### Before Getting Started

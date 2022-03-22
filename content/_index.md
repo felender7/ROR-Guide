@@ -1,4 +1,10 @@
-# Learn Ruby on Rails for Beginners
+---
+title: "Course Introduction"
+date: 2022-03-22T02:25:30+02:00
+draft: false
+---
+
+## Learn Ruby on Rails for Beginners
 
 ### An immersive hands-on Ruby on rails Course
 
@@ -12,7 +18,7 @@ During this course, you'll learn all about Ruby on Rails conventions and best pr
 
 I’d like to encourage individuals to learn Ruby on rails using this course material for free.
 
- > Happy coding 
+ >  Happy coding 
 
 
 ----
