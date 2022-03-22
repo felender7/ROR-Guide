@@ -23,4 +23,4 @@ Proceed to the installation instructions for your operating system and carefully
 
   * [Windows](10_install_rails_windows)
   * [Mac OS ](11_install_rails_mac)
-  * [Linux  ](12_install_python_linux)
+  * [Linux  ](12_install_rails_linux)
