@@ -9,6 +9,6 @@ weight: 5
 
 ### Course Prerequsites
 
-Carefully follow the steps in this section to install Python and other prerequisites.
+Carefully follow the steps in this section to install Ruby and other prerequisites.
 
 </center>
