@@ -22,5 +22,5 @@ You'll need a few mandatory prerequisites to successfully participate in this co
 Proceed to the installation instructions for your operating system and carefully follow the instructions for each step.
 
   * [Windows](10_install_rails_windows)
-  * [Mac OS ](11_install_python_mac)
+  * [Mac OS ](11_install_rails_mac)
   * [Linux  ](12_install_python_linux)
