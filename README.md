@@ -1,7 +1,7 @@
 ---
-title: "ROR GUIDE"
-date: 2022-03-22T02:25:30+02:00
-draft: false
+Title : "ROR GUIDE"
+Date Created: 2022-03-22T02:25:30+02:00
+
 ---
 
 # ROR Guide
