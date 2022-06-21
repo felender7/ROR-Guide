@@ -1,7 +1,7 @@
 ---
 Title : "ROR GUIDE"
 Date Created: 2022-03-22T02:25:30+02:00
-
+Link: https://rorguide.netlify.app/
 ---
 
 # ROR Guide
